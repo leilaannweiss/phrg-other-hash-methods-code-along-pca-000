@@ -116,4 +116,7 @@ Note: `#min` will also work for the entire hash. Play around in pry to see what 
 
 * [Ruby Docs on Hashes](http://ruby-doc.org/core/Hash.html)
 
+## Does this need an update?
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-other-hash-methods-code-along/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-other-hash-methods-code-along/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Higher Level Hash Methods</p>
